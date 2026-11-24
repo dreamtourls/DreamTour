@@ -1,0 +1,15 @@
+runs/
+infra/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+outputs/
+paper/
+*.log
+docs/*.json
+docs/experiments.md
+docs/restored_next_view.md
+docs/wide_union_review.md
+DESIGN.md
+DESIGN_HISTORY.md

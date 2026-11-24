@@ -1,0 +1,17 @@
+[project]
+name = "dreamtour"
+version = "0.3.0"
+description = "DreamTour: layout steering, training-free camera control for frozen video priors"
+requires-python = ">=3.11"
+dependencies = ["torch>=2.7", "torchvision", "numpy", "pillow", "opencv-python-headless", "imageio[ffmpeg]", "imageio-ffmpeg", "matplotlib",
+                "diffusers>=0.36", "transformers>=5.20", "accelerate", "safetensors", "huggingface_hub>=0.26", "scipy"]
+
+[project.optional-dependencies]
+depth = ["timm"]   # Pi3X needs the Pi3 repository on PYTHONPATH (env PI3_SRC); VGGT / UniK3D backends need their own packages
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["dreamtour*"]

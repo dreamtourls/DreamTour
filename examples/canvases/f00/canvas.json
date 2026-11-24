@@ -1,0 +1,37 @@
+{
+ "image": "examples/f00.png",
+ "canvas": [
+  2048,
+  1152
+ ],
+ "offset": [
+  512,
+  288
+ ],
+ "size": [
+  1024,
+  576
+ ],
+ "fov": 50.0,
+ "steps": 8,
+ "texture": 0.45,
+ "seed": 0,
+ "prompt": "a narrow cobbled street in an old European town, pastel facades on both sides, shuttered windows, a bakery sign, morning light, the scene continues on every side with the same materials and objects, consistent lighting, sharp detail everywhere; unedited photograph, true-to-life colours, high dynamic range, sharp fine texture everywhere, real-world detail, no stylisation, no illustration, no 3D render",
+ "held_region_psnr_db": 41.563234320654374,
+ "stats": {
+  "size": [
+   2048,
+   1152
+  ],
+  "windows": 6,
+  "steps": 8,
+  "resample": 3,
+  "prior_calls": 192,
+  "known_fraction": 0.25,
+  "ref_scope": "local",
+  "redraws": 0,
+  "free_spreads": [
+   0.19
+  ]
+ }
+}

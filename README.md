@@ -7,7 +7,22 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-see%20LICENSE-lightgrey?style=flat-square&labelColor=444444" alt="License"></a>
 </p>
 
-<p align="center"><b>Anonymous authors &middot; paper under review</b></p>
+<p align="center">
+  <b><a href="https://vishu26.github.io/">Srikumar Sastry</a><sup>1,2</sup> ·
+  <a href="https://scholar.google.com/citations?user=R14csHAAAAAJ">Meher Gitika Karumuri</a><sup>1</sup> ·
+  <a href="https://scholar.google.com/citations?user=u_lYTIwAAAAJ&hl=en">Chenqi Li</a><sup>1,3</sup> ·
+  <a href="https://sarosijbose.github.io/">Sarosij Bose</a><sup>1,4</sup> ·
+  <a href="https://meilongzhang.github.io/">Mellon Zhang</a><sup>1,5</sup> ·
+  <a href="https://tuallen.github.io/">Allen Tu</a><sup>1,6</sup> ·
+  <a href="https://sites.google.com/view/yenlianglin">Yen-Liang Lin</a><sup>1</sup> ·
+  <a href="https://www.alexander-schwing.de/">Alexander Schwing</a><sup>1,7</sup> ·
+  <a href="https://jacobsn.github.io/">Nathan Jacobs</a><sup>2</sup></b>
+</p>
+
+<p align="center">
+  <sup>1</sup> Amazon &nbsp; <sup>2</sup> Washington University in St. Louis &nbsp; <sup>3</sup> University of Oxford &nbsp; <sup>4</sup> University of California, Riverside<br>
+  <sup>5</sup> Georgia Institute of Technology &nbsp; <sup>6</sup> University of Maryland, College Park &nbsp; <sup>7</sup> University of Illinois Urbana-Champaign
+</p>
 
 <p align="center">
   &#128640; <b>Training-free</b> &nbsp;·&nbsp; &#128269; <b>One hook, every prior</b> &nbsp;·&nbsp; &#128200; <b>Distance, not only direction</b><br>

@@ -14,6 +14,7 @@
   <a href="https://sarosijbose.github.io/">Sarosij Bose</a><sup>1,4</sup> ·
   <a href="https://meilongzhang.github.io/">Mellon Zhang</a><sup>1,5</sup> ·
   <a href="https://tuallen.github.io/">Allen Tu</a><sup>1,6</sup> ·
+  <a href="https://openreview.net/profile?id=~Ziyang_Long1">Ziyang Long</a><sup>1,8</sup> ·
   <a href="https://sites.google.com/view/yenlianglin">Yen-Liang Lin</a><sup>1</sup> ·
   <a href="https://www.alexander-schwing.de/">Alexander Schwing</a><sup>1,7</sup> ·
   <a href="https://jacobsn.github.io/">Nathan Jacobs</a><sup>2</sup></b>
@@ -21,7 +22,7 @@
 
 <p align="center">
   <sup>1</sup> Amazon &nbsp; <sup>2</sup> Washington University in St. Louis &nbsp; <sup>3</sup> University of Oxford &nbsp; <sup>4</sup> University of California, Riverside<br>
-  <sup>5</sup> Georgia Institute of Technology &nbsp; <sup>6</sup> University of Maryland, College Park &nbsp; <sup>7</sup> University of Illinois Urbana-Champaign
+  <sup>5</sup> Georgia Institute of Technology &nbsp; <sup>6</sup> University of Maryland, College Park &nbsp; <sup>7</sup> University of Illinois Urbana-Champaign &nbsp; <sup>8</sup> University of California, Los Angeles
 </p>
 
 <p align="center">
@@ -163,7 +164,7 @@ layout in the channel means. Pans and orbits are capped at the canvas margin. Pe
 ```bibtex
 @misc{dreamtour2026,
   title  = {DreamTour: Layout Steering for Training-Free World Exploration},
-  author = {Sastry, Srikumar and Karumuri, Meher Gitika and Li, Chenqi and Bose, Sarosij and Zhang, Mellon and Tu, Allen and Lin, Yen-Liang and Schwing, Alexander and Jacobs, Nathan},
+  author = {Sastry, Srikumar and Karumuri, Meher Gitika and Li, Chenqi and Bose, Sarosij and Zhang, Mellon and Tu, Allen and Long, Ziyang and Lin, Yen-Liang and Schwing, Alexander and Jacobs, Nathan},
   year   = {2026},
   note  = {https://github.com/dreamtourls/DreamTour}
 }

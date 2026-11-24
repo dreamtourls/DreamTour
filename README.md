@@ -162,8 +162,9 @@ layout in the channel means. Pans and orbits are capped at the canvas margin. Pe
 
 ```bibtex
 @misc{dreamtour2026,
-  title = {DreamTour: Layout Steering for Training-Free World Exploration},
-  year  = {2026},
+  title  = {DreamTour: Layout Steering for Training-Free World Exploration},
+  author = {Sastry, Srikumar and Karumuri, Meher Gitika and Li, Chenqi and Bose, Sarosij and Zhang, Mellon and Tu, Allen and Lin, Yen-Liang and Schwing, Alexander and Jacobs, Nathan},
+  year   = {2026},
   note  = {https://github.com/dreamtourls/DreamTour}
 }
 ```
